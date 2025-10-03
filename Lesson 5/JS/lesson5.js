@@ -76,3 +76,16 @@
     }
 
     crazpicc.greeting();
+
+    // Practice
+
+    var starOcean = {
+        numberOfOfficalTitles: 6,
+        firstRelease: 1996,
+        mainCharacters: {
+            name: ['Roddick Farrence', 'Claude Kenny', 'Fayt Leingod', 'Edge Maverick', 'Fidel Camuze', 'Raymond Lawrence']
+        },
+        mainCharactersHairColors: ['blonde', 'blue'],
+        gameThemes: ['Intergalatic Travel', 'Space', 'Fighting'],
+        consoles: ['Playstation', 'X-box', 'PS Vita', 'PC'],
+    }
